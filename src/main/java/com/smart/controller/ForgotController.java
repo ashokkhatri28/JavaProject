@@ -111,8 +111,7 @@ public class ForgotController {
 				
 				return "forgot_email_form";
 			}else
-			{
-				//
+			{				//
 				//send change password form
 				
 			}			
